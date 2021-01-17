@@ -6,4 +6,3 @@ Design Credit: [Muhammad Saidur Rahman](https://www.uplabs.com/posts/groceries-m
 
 <img src="docs/grocerisApp.png">
 
-<a href="https://github.com/abdulmominsakib/groceriesAppFlutterUI/releases">Download The Apk Here</a>
